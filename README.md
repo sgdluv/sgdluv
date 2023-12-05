@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sgdluv
-- 👀 I’m interested in getting into the tech industry.
-- 🌱 I’m currently learning how to program using python and query data with SQL.
-- 💞️ I’m looking to collaborate on any helpful projects to increase my skillset.
+- 👀 I’m interested in getting into Data Science
+- 🌱 I’m currently learning how to complete Data Science related projects as preparation as well as developing my skills in programming.
+- 💞️ I’m looking to collaborate to increase my skillset.
 
 <!---
 sgdluv/sgdluv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
